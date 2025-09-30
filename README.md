@@ -28,6 +28,11 @@ A lightweight Flutter app for managing and splitting expenses among friends, gro
 
 *Include relevant app screenshots or workflow GIFs here to help users visualize usage.*
 
+## Video
+
+[Watch the demo video](https://drive.google.com/drive/u/1/folders/1Q6MfNYLwHDlN0vxT_fQmSNN4Bm2GIna1)
+
+
 ## Getting Started
 
 To start using Len-Den, clone the repository and follow the setup guide. The repo is designed for first-time Flutter learners and experienced developers alike.
@@ -83,3 +88,4 @@ MIT License (see LICENSE file for details)
 ## Contact
 
 For queries, suggestions, or collaborations, start a discussion or open an issue on the (https://github.com/siddhraj1412/Len-Den).
+
