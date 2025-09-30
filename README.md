@@ -87,5 +87,4 @@ MIT License (see LICENSE file for details)
 
 ## Contact
 
-For queries, suggestions, or collaborations, start a discussion or open an issue on the (https://github.com/siddhraj1412/Len-Den).
-
+For queries, suggestions, or collaborations, start a discussion or open an issue on the [GitHub repository](https://github.com/siddhraj1412/Len-Den).
